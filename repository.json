@@ -1,12 +1,12 @@
 {
   "author": "Graf Technology, LLC",
-  "gitHubUrl": "https://github.com/jacobgraf/hpm-repository",
+  "gitHubUrl": "https://github.com/graftechnology/hubitat-hpm-repository",
   "packages": [
     {
       "category": "Notifications",
       "description": "A Hubitat driver that sends SMS notifications via the ClearlyIP Unity SMS API.",
       "id": "53a1d07e-6e24-4637-b5d1-7782f38076d0",
-      "location": "https://raw.githubusercontent.com/jacobgraf/hubitat-clearlyip-sms-driver/main/packageManifest.json",
+      "location": "https://raw.githubusercontent.com/graftechnology/hubitat-clearlyip-sms-notification-driver/main/packageManifest.json",
       "name": "ClearlyIP SMS Notification Driver",
       "tags": [
         "Notifications"
