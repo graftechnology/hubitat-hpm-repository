@@ -9,10 +9,7 @@
       "location": "https://raw.githubusercontent.com/jacobgraf/hubitat-clearlyip-sms-driver/main/packageManifest.json",
       "name": "ClearlyIP SMS Notification Driver",
       "tags": [
-        "Notifications",
-        "SMS",
-        "ClearlyIP",
-        "Driver"
+        "Notifications"
       ]
     }
   ]
