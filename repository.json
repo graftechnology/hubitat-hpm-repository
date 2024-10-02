@@ -1,6 +1,6 @@
 {
   "author": "Graf Technology, LLC",
-  "gitHubUrl": "https://github.com/graftechnology/hubitat-hpm-repository",
+  "gitHubUrl": "https://github.com/graftechnology",
   "packages": [
     {
       "category": "Notifications",
