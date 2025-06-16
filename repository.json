@@ -11,6 +11,18 @@
       "tags": [
         "Notifications"
       ]
+    },
+    {
+      "category": "Notifications",
+      "description": "A comprehensive Hubitat driver for NTFY notifications (ntfy.sh or self-hosted). Features connection testing, enhanced error handling, input validation, state management, tags/emojis, click actions, attachments, custom icons, markdown formatting, and message scheduling.",
+      "id": "b6670762-37bb-4af0-b563-969f470d58bf",
+      "location": "https://raw.githubusercontent.com/graftechnology/hubitat-ntfy-notification-driver/main/packageManifest.json",
+      "name": "NTFY Notifier Driver",
+      "tags": [
+        "Notifications",
+        "NTFY",
+        "Push"
+      ]
     }
   ]
 }
